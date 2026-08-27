@@ -1,10 +1,12 @@
 # free-ai-api
 
+[English](README.en.md) | [简体中文](README.md)
+
 收集可免费使用的 AI 模型 API 平台。
 
 ## B-AI
 
-- 邀请链接：<https://chat.b.ai/chat?invite_code=BL9UBT>
+- 邀请链接：[chat.b.ai](https://chat.b.ai/chat?invite_code=BL9UBT)
 - 邀请码：`BL9UBT`
 
 免费模型：
@@ -15,11 +17,11 @@
 
 ## FreeBuf
 
-- 邀请链接：<https://freebuff.com/?ref=ref-3eb0adde-9983-48f6-9bf3-de3c271c62de>
+- 邀请链接：[freebuff.com](https://freebuff.com/?ref=ref-3eb0adde-9983-48f6-9bf3-de3c271c62de)
 
 ## Freemodel
 
-- 邀请链接：<https://freemodel.dev/invite/FRE-e71f7daa>
+- 邀请链接：[freemodel.dev](https://freemodel.dev/invite/FRE-e71f7daa)
 
 提供前沿 AI 模型免费使用的平台，口号是 "Frontier AI, free for everyone"（前沿 AI，人人免费）。
 
@@ -37,7 +39,7 @@
 
 ## TokenLB
 
-- 邀请链接：<https://tokenlb.net/sign-up?aff=iqik>
+- 邀请链接：[tokenlb.net](https://tokenlb.net/sign-up?aff=iqik)
 
 支持的大模型：
 
