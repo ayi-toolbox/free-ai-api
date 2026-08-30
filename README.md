@@ -6,7 +6,7 @@
 
 ## B-AI
 
-- 邀请链接：[chat.b.ai](https://chat.b.ai/chat?invite_code=BL9UBT)
+- 链接：[chat.b.ai](https://chat.b.ai/chat?invite_code=BL9UBT)
 - 邀请码：`BL9UBT`
 
 免费模型：
@@ -17,11 +17,14 @@
 
 ## FreeBuf
 
-- 邀请链接：[freebuff.com](https://freebuff.com/?ref=ref-3eb0adde-9983-48f6-9bf3-de3c271c62de)
+- 链接：[freebuff.com](https://freebuff.com/?ref=ref-3eb0adde-9983-48f6-9bf3-de3c271c62de)
+
+![](assets/README.png)
+
 
 ## Freemodel
 
-- 邀请链接：[freemodel.dev](https://freemodel.dev/invite/FRE-e71f7daa)
+- 链接：[freemodel.dev](https://freemodel.dev/invite/FRE-e71f7daa)
 
 提供前沿 AI 模型免费使用的平台，口号是 "Frontier AI, free for everyone"（前沿 AI，人人免费）。
 

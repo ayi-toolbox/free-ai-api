@@ -6,7 +6,7 @@ A collection of platforms offering free access to AI model APIs.
 
 ## B-AI
 
-- Invitation link: [chat.b.ai](https://chat.b.ai/chat?invite_code=BL9UBT)
+- link: [chat.b.ai](https://chat.b.ai/chat?invite_code=BL9UBT)
 - Invite code: `BL9UBT`
 
 Free models:
@@ -17,11 +17,14 @@ Free models:
 
 ## FreeBuf
 
-- Invitation link: [freebuff.com](https://freebuff.com/?ref=ref-3eb0adde-9983-48f6-9bf3-de3c271c62de)
+-  link: [freebuff.com](https://freebuff.com/?ref=ref-3eb0adde-9983-48f6-9bf3-de3c271c62de)
+
+![](assets/README.en.png)
+
 
 ## Freemodel
 
-- Invitation link: [freemodel.dev](https://freemodel.dev/invite/FRE-e71f7daa)
+-  link: [freemodel.dev](https://freemodel.dev/invite/FRE-e71f7daa)
 
 A platform for using frontier AI models for free, with the slogan "Frontier AI, free for everyone".
 
@@ -39,7 +42,7 @@ Available models:
 
 ## TokenLB
 
-- Invitation link: [tokenlb.net](https://tokenlb.net/sign-up?aff=iqik)
+-  link: [tokenlb.net](https://tokenlb.net/sign-up?aff=iqik)
 
 Supported models:
 
