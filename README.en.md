@@ -9,16 +9,22 @@ A collection of platforms offering free access to AI model APIs.
 - link: [chat.b.ai](https://chat.b.ai/chat?invite_code=BL9UBT)
 - Invite code: `BL9UBT`
 
-Free models:
+Sign in with Google or a Web3 wallet; no credit card required to get started.
 
-- `deepseek-v4-flash`
-- `deepseek-v4-flash-vision-exp`
-- `hy3`
-- `mimo-v2.5`
-- `glm-5.3-flash`
-- `qwen3.8-flash`
+Free usage:
 
-> Note: `deepseek-v4-flash-vision-exp` is free for API use only; `glm-5.3-flash` and `qwen3.8-flash` are free on the API now and become free on Chat once listed.
+- Registering via the invite link/code grants **300,000 Credits** as a signup bonus (valid for 30 days; unused balance expires)
+- Referral rebate: earn **1% Coin** when an invited friend tops up or subscribes (invite relationship valid for 2 years); Coin can be redeemed for Credits (1 Coin = 1,000,000 Credits, redeemed Credits valid for 30 days)
+- Currently free models (limited-time promotions):
+
+  - `deepseek-v4-flash`
+  - `hy3`
+  - `mimo-v2.5`
+  - `deepseek-v4-flash-vision-exp`
+  - `glm-5.3-flash`
+  - `qwen3.8-flash`
+
+Billing: prepaid Credits; top up via bank card, WeChat Pay, Alipay, UnionPay, or on-chain.
 
 ## FreeBuf
 
@@ -37,7 +43,6 @@ A platform for using frontier AI models for free, with the slogan "Frontier AI, 
 - Referral reward: earn **$10 in credits** for each friend who tops up — your friend gets $10 too; no cap, no expiry
 - The Free plan has no time-window quota; usage draws down your credit balance until it runs out
 
-<img width="250" height="100" alt="image" src="https://github.com/user-attachments/assets/61bdeeb9-7a17-4e05-8f2e-5daa9f5089ac" />
 
 Available models (OpenAI & Anthropic compatible routing):
 
@@ -45,7 +50,7 @@ Available models (OpenAI & Anthropic compatible routing):
 - `gpt-5.5` / `gpt-5.4` / `gpt-5.4-mini` / `gpt-5.3-codex`
 - Claude Opus / Sonnet 5 / Haiku / Fable / Mythos
 
-<img width="837" height="257" alt="image" src="https://github.com/user-attachments/assets/cbc26021-c7cf-45af-8199-1df3dcea1473" />
+
 
 ## TokenLB
 
