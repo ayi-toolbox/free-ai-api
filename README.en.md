@@ -30,6 +30,18 @@ Billing: prepaid Credits; top up via bank card, WeChat Pay, Alipay, UnionPay, or
 
 -  link: [freebuff.com](https://freebuff.com/?ref=ref-3eb0adde-9983-48f6-9bf3-de3c271c62de)
 
+A **100% free** ($0/yr) AI coding agent platform funded by text ads. No API key, no credit card. Offers five products — Desktop, CLI, Web, Cloud, Chat — replacing paid tools like Codex, Cursor, Claude Code, and Devin. Open source: [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff).
+
+Free models (full mode):
+
+- `gpt-5.6-luna` (default on CLI / Desktop / Web / Cloud)
+- `deepseek-v4-flash` (6 free hours per day)
+- `mimo-v2.5`
+- `solar-pro-4` (limited-time trial)
+- `glm-5.3-flash`
+
+Limited mode (outside full-access countries or using a VPN): only `mimo-v2.5`, with 3 one-hour sessions per day, earnable up to 7 via the Earn page.
+
 ![](assets/README.en.png)
 
 

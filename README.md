@@ -30,6 +30,18 @@
 
 - 链接：[freebuff.com](https://freebuff.com/?ref=ref-3eb0adde-9983-48f6-9bf3-de3c271c62de)
 
+由文本广告赞助、**100% 免费**（$0/年）的 AI 编程代理平台，无需 API Key、无需信用卡。提供 Desktop、CLI、Web、Cloud、Chat 五种产品，可替代 Codex、Cursor、Claude Code、Devin 等付费工具，开源：[CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff)。
+
+免费模型（完整模式）：
+
+- `gpt-5.6-luna`（默认模型，CLI / Desktop / Web / Cloud）
+- `deepseek-v4-flash`（每日 6 小时免费）
+- `mimo-v2.5`
+- `solar-pro-4`（限时试用）
+- `glm-5.3-flash`
+
+受限模式（部分国家或使用 VPN 时）：仅 `mimo-v2.5`，每天 3 个 1 小时会话，可在 Earn 页面通过互动最多获得 7 个会话。
+
 ![](assets/README.png)
 
 
