@@ -77,3 +77,19 @@ Supported models:
 - `gpt-5.4`
 - `gpt-5.4-mini`
 - `gemini-3-flash-preview`
+
+## GoRouter
+
+-  link: [gorouter.app](https://gorouter.app/sign-up?aff=k5Fm)
+
+An AI API gateway built on New API, OpenAI / Anthropic compatible. Sign up with GitHub OAuth (no email verification required).
+
+- Free to start, no credit card required
+- New users receive initial quota on registration
+- Daily check-in for random quota rewards
+- Referral rewards: both the inviter and the invitee earn quota when signing up via the invite link
+
+Models currently available (default group):
+
+- `claude-opus-5` / `claude-opus-5-thinking`
+- `claude-opus-4-8` / `claude-opus-4-8-thinking`

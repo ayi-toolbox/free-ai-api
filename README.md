@@ -77,3 +77,19 @@
 - `gpt-5.4`
 - `gpt-5.4-mini`
 - `gemini-3-flash-preview`
+
+## GoRouter
+
+- 链接：[gorouter.app](https://gorouter.app/sign-up?aff=k5Fm)
+
+支持 GitHub 登录注册（无需邮箱验证）。
+
+- 免费开始使用，无需绑定信用卡
+- 新用户注册赠送初始额度
+- 每日签到领取随机额度
+- 邀请奖励：通过邀请链接注册，邀请人与受邀者双方均可获得额度奖励
+
+当前默认分组可用模型：
+
+- `claude-opus-5` / `claude-opus-5-thinking`
+- `claude-opus-4-8` / `claude-opus-4-8-thinking`
