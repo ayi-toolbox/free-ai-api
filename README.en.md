@@ -33,15 +33,17 @@ Free models:
 
 A platform for using frontier AI models for free, with the slogan "Frontier AI, free for everyone".
 
-Get **$300 in free API credits** upon sign-up: no credit card required, no hidden fees, ready to use right away; occasional bonus credits of $100 are also given away.
+- Free forever, no credit card required: **$5 in API credits** on sign-up, no hidden fees, applied automatically to API usage
+- Referral reward: earn **$10 in credits** for each friend who tops up — your friend gets $10 too; no cap, no expiry
+- The Free plan has no time-window quota; usage draws down your credit balance until it runs out
 
 <img width="250" height="100" alt="image" src="https://github.com/user-attachments/assets/61bdeeb9-7a17-4e05-8f2e-5daa9f5089ac" />
 
-Available models:
+Available models (OpenAI & Anthropic compatible routing):
 
-- `claude-opus-4-7`
-- `claude-sonnet-4-6`
-- `claude-haiku-4-5-20251001`
+- `gpt-5.6-sol` / `gpt-5.6-terra` / `gpt-5.6-luna`
+- `gpt-5.5` / `gpt-5.4` / `gpt-5.4-mini` / `gpt-5.3-codex`
+- Claude Opus / Sonnet 5 / Haiku / Fable / Mythos
 
 <img width="837" height="257" alt="image" src="https://github.com/user-attachments/assets/cbc26021-c7cf-45af-8199-1df3dcea1473" />
 
