@@ -14,6 +14,11 @@ Free models:
 - `deepseek-v4-flash`
 - `deepseek-v4-flash-vision-exp`
 - `hy3`
+- `mimo-v2.5`
+- `glm-5.3-flash`
+- `qwen3.8-flash`
+
+> Note: `deepseek-v4-flash-vision-exp` is free for API use only; `glm-5.3-flash` and `qwen3.8-flash` are free on the API now and become free on Chat once listed.
 
 ## FreeBuf
 

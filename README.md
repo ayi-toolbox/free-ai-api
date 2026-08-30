@@ -14,6 +14,11 @@
 - `deepseek-v4-flash`
 - `deepseek-v4-flash-vision-exp`
 - `hy3`
+- `mimo-v2.5`
+- `glm-5.3-flash`
+- `qwen3.8-flash`
+
+> 注：`deepseek-v4-flash-vision-exp` 仅 API 免费；`glm-5.3-flash`、`qwen3.8-flash` 的 API 已免费，Chat 上线后免费。
 
 ## FreeBuf
 
