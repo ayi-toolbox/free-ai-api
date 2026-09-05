@@ -17,12 +17,12 @@ Free usage:
 - Referral rebate: earn **1% Coin** when an invited friend tops up or subscribes (invite relationship valid for 2 years); Coin can be redeemed for Credits (1 Coin = 1,000,000 Credits, redeemed Credits valid for 30 days)
 - Currently free models (limited-time promotions):
 
-  - `deepseek-v4-flash`
-  - `hy3`
-  - `mimo-v2.5`
-  - `deepseek-v4-flash-vision-exp`
-  - `glm-5.3-flash`
-  - `qwen3.8-flash`
+  - `hy3` (free on both Chat and API)
+  - `mimo-v2.5` (API free; free on Chat since 2026-08-25)
+  - `glm-5.3-flash` (API free; free on Chat once listed)
+  - `qwen3.8-flash` (API free; free on Chat once listed)
+
+> Note: `deepseek-v4-flash` and `deepseek-v4-flash-vision-exp` are no longer free; since 2026-09-03 they are 50% off the standard price.
 
 Billing: prepaid Credits; top up via bank card, WeChat Pay, Alipay, UnionPay, or on-chain.
 
@@ -32,13 +32,15 @@ Billing: prepaid Credits; top up via bank card, WeChat Pay, Alipay, UnionPay, or
 
 A **100% free** ($0/yr) AI coding agent platform funded by text ads. No API key, no credit card. Offers five products — Desktop, CLI, Web, Cloud, Chat — replacing paid tools like Codex, Cursor, Claude Code, and Devin. Open source: [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff).
 
-Free models (full mode):
+Free models (full mode, official picker):
 
-- `gpt-5.6-luna` (default on CLI / Desktop / Web / Cloud)
-- `deepseek-v4-flash` (6 free hours per day)
-- `mimo-v2.5`
-- `solar-pro-4` (limited-time trial)
-- `glm-5.3-flash`
+- `deepseek-v4-pro` (CLI default, daily premium sessions)
+- `deepseek-v4-flash` (6 free hours per day; fallback after premium sessions)
+- `gpt-5.6-luna` (shared across CLI / Desktop / Web / Cloud / Chat)
+- `minimax-m3`
+- `mimo-v2.5` (unlimited)
+- `glm-5.2` (sessions redeemable via Earn page)
+- `gemini-3.1-flash-lite` (specialist tasks like file finding and research)
 
 Limited mode (outside full-access countries or using a VPN): only `mimo-v2.5`, with 3 one-hour sessions per day, earnable up to 7 via the Earn page.
 
@@ -51,16 +53,17 @@ Limited mode (outside full-access countries or using a VPN): only `mimo-v2.5`, w
 
 A platform for using frontier AI models for free, with the slogan "Frontier AI, free for everyone".
 
-- Free forever, no credit card required: **$5 in API credits** on sign-up, no hidden fees, applied automatically to API usage
-- Referral reward: earn **$10 in credits** for each friend who tops up — your friend gets $10 too; no cap, no expiry
+- Free forever, no credit card required: **$5 in API credits** on sign-up, plus **$10** after phone/Telegram verification, no hidden fees, applied automatically to API usage
+- New verified accounts get **1 month of Pro free**, unlocking high-rate access to frontier models
+- Referral reward: earn **$10 in credits** for each verified friend — your friend gets $10 too; no cap, no expiry
 - The Free plan has no time-window quota; usage draws down your credit balance until it runs out
 
 
-Available models (OpenAI & Anthropic compatible routing):
+Available models (OpenAI & Anthropic compatible routing, 10 models):
 
-- `gpt-5.6-sol` / `gpt-5.6-terra` / `gpt-5.6-luna`
 - `gpt-5.5` / `gpt-5.4` / `gpt-5.4-mini` / `gpt-5.3-codex`
-- Claude Opus / Sonnet 5 / Haiku / Fable / Mythos
+- `claude-opus-4-8` / `claude-opus-4-7` / `claude-opus-4-6`
+- `claude-sonnet-4-6` / `claude-haiku-4-5` / `claude-fable-5`
 
 
 
@@ -109,7 +112,8 @@ An LLM API gateway built on New API; works with Claude Code, Codex, Roo Code, an
 
 Available models (pay-as-you-go):
 
-- `claude-opus-5` / `claude-opus-4-8`
-- `gpt-5.6-sol`
+- `claude-opus-5` / `claude-opus-4-8` / `claude-opus-4-7`
+- `gpt-5.6-sol` / `gpt-5.5`
+- `kimi-k2.6`
 - `deepseek-v4-flash`
 - `glm-5.3`
