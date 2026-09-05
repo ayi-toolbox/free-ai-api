@@ -4,6 +4,27 @@
 
 A collection of platforms offering free access to AI model APIs.
 
+## Agent Router
+
+-  link: [agentrouter.org](https://agentrouter.org/register?aff=ZJ9a)
+
+An LLM API gateway built on New API; works with Claude Code, Codex, Roo Code, and Qwen Code. Backup domain: [ps.air-outer.com](https://ps.air-outer.com).
+
+- Sign up with GitHub / Linux DO OAuth, no email verification required
+- **Top-ups not supported**; quota is earned by:
+  - Daily check-in on login: **$25** (log out & back in to activate)
+  - Referrals: **$50** each for the inviter and the invitee
+  - Occasional redemption-code draws for email-bound accounts; official giveaways
+
+
+Available models (pay-as-you-go):
+
+- `claude-opus-5` / `claude-opus-4-8` / `claude-opus-4-7`
+- `gpt-5.6-sol` / `gpt-5.5`
+- `kimi-k2.6`
+- `deepseek-v4-flash`
+- `glm-5.3`
+
 ## B-AI
 
 - link: [chat.b.ai](https://chat.b.ai/chat?invite_code=BL9UBT)
@@ -96,24 +117,3 @@ Models currently available (default group):
 
 - `claude-opus-5` / `claude-opus-5-thinking`
 - `claude-opus-4-8` / `claude-opus-4-8-thinking`
-
-## Agent Router
-
--  link: [agentrouter.org](https://agentrouter.org/register?aff=ZJ9a)
-
-An LLM API gateway built on New API; works with Claude Code, Codex, Roo Code, and Qwen Code. Backup domain: [ps.air-outer.com](https://ps.air-outer.com).
-
-- Sign up with GitHub / Linux DO OAuth, no email verification required
-- **Top-ups not supported**; quota is earned by:
-  - Daily check-in on login: **$25** (log out & back in to activate)
-  - Referrals: **$50** each for the inviter and the invitee
-  - Occasional redemption-code draws for email-bound accounts; official giveaways
-
-
-Available models (pay-as-you-go):
-
-- `claude-opus-5` / `claude-opus-4-8` / `claude-opus-4-7`
-- `gpt-5.6-sol` / `gpt-5.5`
-- `kimi-k2.6`
-- `deepseek-v4-flash`
-- `glm-5.3`

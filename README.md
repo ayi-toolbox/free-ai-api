@@ -4,6 +4,27 @@
 
 收集可免费使用的 AI 模型 API 平台。
 
+## Agent Router
+
+- 邀请链接：[agentrouter.org](https://agentrouter.org/register?aff=ZJ9a)
+
+基于 New API 的大模型 API 网关，可配合 Claude Code、Codex、Roo Code、Qwen Code 等客户端使用。备用域名：[ps.air-outer.com](https://ps.air-outer.com)。
+
+- 支持 GitHub / Linux DO 登录注册，无需邮箱验证
+- **不支持充值**，额度来源：
+  - 每日登录签到得 **$25**（需退出后重新登录到账）
+  - 邀请注册：邀请人与被邀请人各得 **$50**
+  - 绑定邮箱不定期抽奖发兑换码；官方不定期发放额度
+- 仅支持中/英/法/德/俄五种语言（其他语言请求会被拦截）
+
+可用模型（按量计费）：
+
+- `claude-opus-5` / `claude-opus-4-8` / `claude-opus-4-7`
+- `gpt-5.6-sol` / `gpt-5.5`
+- `kimi-k2.6`
+- `deepseek-v4-flash`
+- `glm-5.3`
+
 ## B-AI
 
 - 链接：[chat.b.ai](https://chat.b.ai/chat?invite_code=BL9UBT)
@@ -96,24 +117,3 @@
 
 - `claude-opus-5` / `claude-opus-5-thinking`
 - `claude-opus-4-8` / `claude-opus-4-8-thinking`
-
-## Agent Router
-
-- 邀请链接：[agentrouter.org](https://agentrouter.org/register?aff=ZJ9a)
-
-基于 New API 的大模型 API 网关，可配合 Claude Code、Codex、Roo Code、Qwen Code 等客户端使用。备用域名：[ps.air-outer.com](https://ps.air-outer.com)。
-
-- 支持 GitHub / Linux DO 登录注册，无需邮箱验证
-- **不支持充值**，额度来源：
-  - 每日登录签到得 **$25**（需退出后重新登录到账）
-  - 邀请注册：邀请人与被邀请人各得 **$50**
-  - 绑定邮箱不定期抽奖发兑换码；官方不定期发放额度
-- 仅支持中/英/法/德/俄五种语言（其他语言请求会被拦截）
-
-可用模型（按量计费）：
-
-- `claude-opus-5` / `claude-opus-4-8` / `claude-opus-4-7`
-- `gpt-5.6-sol` / `gpt-5.5`
-- `kimi-k2.6`
-- `deepseek-v4-flash`
-- `glm-5.3`
