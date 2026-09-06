@@ -68,6 +68,22 @@ Limited mode (outside full-access countries or using a VPN): only `mimo-v2.5`, w
 ![](assets/README.en.png)
 
 
+## WorkBuddy AI
+
+-  Invite link: [WorkBuddy AI](https://workbuddy.ai/invite?code=5RQ4528P)
+
+A full-scenario AI office workspace by Tencent. It accepts natural-language instructions, plans and executes multi-step tasks, and handles documents, spreadsheets, presentations, data analysis, and deep research. With permission, it can also operate on local files and process them in batches.
+
+Supported model families:
+
+- Tencent Hunyuan (Chinese office work, content creation, and multimodal tasks)
+- GPT family (`gpt-5.6` / `gpt-5.6-sol` / `gpt-5.5`)
+- GLM
+- Kimi
+- MiniMax
+
+> Note: Available models and model IDs may vary by version, region, or service configuration. Check the model picker in the WorkBuddy AI client for the current list.
+
 ## Freemodel
 
 -  link: [freemodel.dev](https://freemodel.dev/invite/FRE-e71f7daa)

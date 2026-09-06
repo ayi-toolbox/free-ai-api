@@ -6,7 +6,7 @@
 
 ## Agent Router
 
-- 邀请链接：[agentrouter.org](https://agentrouter.org/register?aff=ZJ9a)
+- 链接：[agentrouter.org](https://agentrouter.org/register?aff=ZJ9a)
 
 基于 New API 的大模型 API 网关，可配合 Claude Code、Codex、Roo Code、Qwen Code 等客户端使用。备用域名：[ps.air-outer.com](https://ps.air-outer.com)。
 
@@ -34,7 +34,7 @@
 
 免费使用：
 
-- 通过邀请链接/邀请码注册可领取 **30 万 Credits** 注册奖励（30 天内有效，到期未用完自动作废）
+- 通过链接/邀请码注册可领取 **30 万 Credits** 注册奖励（30 天内有效，到期未用完自动作废）
 - 推荐返佣：邀请好友完成充值或订阅，可得 **1% Coin 返佣**（邀请关系有效期 2 年）；Coin 可兑换 Credits（1 Coin = 100 万 Credits，兑换所得 Credits 30 天内有效）
 - 当前免费模型（限时促销）：
 
@@ -68,6 +68,22 @@
 ![](assets/README.png)
 
 
+## WorkBuddy AI
+
+- 链接：[WorkBuddy AI](https://workbuddy.ai/invite?code=5RQ4528P)
+
+腾讯出品的全场景 AI 办公工作台。支持通过自然语言下达任务，自动规划并执行多步骤任务，处理文档、表格、PPT、数据分析和深度研究等工作，也可以在授权后操作本地文件并进行批量处理。
+
+支持切换的大模型系列：
+
+- 腾讯混元（中文办公、内容创作和多模态任务）
+- GPT 系列（`gpt-5.6` / `gpt-5.6-sol` / `gpt-5.5`）
+- GLM
+- Kimi
+- MiniMax
+
+> 注：具体可用模型及型号可能随版本、地区或服务配置调整，请以 WorkBuddy AI 客户端内的模型列表为准。
+
 ## Freemodel
 
 - 链接：[freemodel.dev](https://freemodel.dev/invite/FRE-e71f7daa)
@@ -90,7 +106,7 @@
 
 ## TokenLB
 
-- 邀请链接：[tokenlb.net](https://tokenlb.net/sign-up?aff=iqik)
+- 链接：[tokenlb.net](https://tokenlb.net/sign-up?aff=iqik)
 
 支持的大模型：
 
@@ -111,7 +127,7 @@
 - 免费开始使用，无需绑定信用卡
 - 新用户注册赠送初始额度
 - 每日签到领取随机额度
-- 邀请奖励：通过邀请链接注册，邀请人与受邀者双方均可获得额度奖励
+- 邀请奖励：通过链接注册，邀请人与受邀者双方均可获得额度奖励
 
 当前默认分组可用模型：
 
