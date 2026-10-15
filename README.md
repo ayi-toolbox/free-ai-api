@@ -135,3 +135,43 @@
 
 - `claude-opus-5` / `claude-opus-5-thinking`
 - `claude-opus-4-8` / `claude-opus-4-8-thinking`
+
+## NVIDIA Build
+
+- 链接：[build.nvidia.com](https://build.nvidia.com)
+
+NVIDIA 官方的免费 API 体验入口，Kimi K3、DeepSeek、GLM 等模型的 API 免费。
+
+- 每日请求数不限，速率约 40 RPM
+- 免绑卡；领 key 前需过一道手机短信验证
+- ⚠️ +86 号码在 2026-03 有失败先例（NVIDIA 开发者论坛两例：收不到短信 / 首次即报超限，需发帖申请人工验证；截至 2026-10-13 是否修复未知）
+
+## TokenHarbor
+
+- 链接：[tokenharbor.ai](https://tokenharbor.ai)
+
+AI API 聚合网关。同一把 key、同一个 OpenAI 兼容接口；Haiku 5.5、DeepSeek V4.1 Flash、MiMo V2.6 Flash 三条线路免费，模型 ID 带 `:free` 后缀的调用走免费额度、永不计费。
+
+- `claude-haiku-5.5:free`（上下文 100万）
+- `deepseek-v4.1-flash:free`（上下文 104.8万）
+- `mimo-v2.6-flash:free`（上下文 104.8万）
+
+> 来源：2026-10-09 官方博客；官方提醒免费额度和可用性随时会变，以实时模型页为准。
+
+## ai.centos.hk（待验证）
+
+- 链接：[ai.centos.hk](https://ai.centos.hk)
+
+君の星辰，New API 中转站。是否支持签到免费待验证（2026-10-14 未能打开页面验证，域名经搜索核实真实存在）。
+
+## pmcat.top（待验证）
+
+- 链接：[pmcat.top](https://pmcat.top/)
+
+2026-10-14 收录；页面抓取无可提取内容、公开搜索无相关信息，站点性质未验证，待补充。
+
+## muyuan.do（待验证）
+
+- 链接：[muyuan.do](https://muyuan.do/)
+
+New API 中转站，统一 LLM API 网关。官网自称支持 30+ 模型提供商，多模态/音频/重排接口齐全；免费额度与签到政策未验证。
