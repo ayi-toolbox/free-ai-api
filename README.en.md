@@ -157,3 +157,21 @@ An AI API aggregation gateway. One key, one OpenAI-compatible endpoint; three li
 - `mimo-v2.6-flash:free` (1.048M context)
 
 > Source: official blog 2026-10-09; the official caveat: free quotas and availability may change at any time — go by the live models page.
+
+## ai.centos.hk
+
+- link: [ai.centos.hk](https://ai.centos.hk)
+
+"君の星辰", a New API relay station. Whether check-in earns free quota is unverified (page could not be opened for verification on 2026-10-14; domain confirmed real via search).
+
+## pmcat.top
+
+- link: [pmcat.top](https://pmcat.top/)
+
+Added 2026-10-14; page scraping yielded no extractable content and public search found nothing. Site nature unverified — to be supplemented.
+
+## muyuan.do
+
+- link: [muyuan.do](https://muyuan.do/)
+
+A New API relay station / unified LLM API gateway. Claims 30+ model providers with multimodal/audio/rerank endpoints; free quota and check-in policy unverified.
