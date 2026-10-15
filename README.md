@@ -4,6 +4,8 @@
 
 收集可免费使用的 AI 模型 API 平台。
 
+> 核实日期：2026-10-15。本页按当日公开资料逐家核查，免费政策随时可能变化，请以各平台官网为准。
+
 ## Agent Router
 
 - 链接：[agentrouter.org](https://agentrouter.org/register?aff=ZJ9a)
@@ -15,7 +17,6 @@
   - 每日登录签到得 **$25**（需退出后重新登录到账）
   - 邀请注册：邀请人与被邀请人各得 **$50**
   - 绑定邮箱不定期抽奖发兑换码；官方不定期发放额度
-- 仅支持中/英/法/德/俄五种语言（其他语言请求会被拦截）
 
 可用模型（按量计费）：
 
@@ -24,6 +25,8 @@
 - `kimi-k2.6`
 - `deepseek-v4-flash`
 - `glm-5.3`
+
+> 注：完整模型名单需登录控制台查看。2026-10-15 的公开数据仅列出 `claude-opus-5`、`claude-opus-4-8`、`deepseek-v4-flash`、`gpt-6-astra` 四款，其余型号以控制台实际列表为准。
 
 ## B-AI
 
@@ -34,16 +37,15 @@
 
 免费使用：
 
-- 通过链接/邀请码注册可领取 **30 万 Credits** 注册奖励（30 天内有效，到期未用完自动作废）
+- 通过链接/邀请码注册可领取 **30 万 Credits** 注册奖励（30 天内有效，到期未用完自动作废）——2026-10-15 未能从官方渠道核实，需登录确认
 - 推荐返佣：邀请好友完成充值或订阅，可得 **1% Coin 返佣**（邀请关系有效期 2 年）；Coin 可兑换 Credits（1 Coin = 100 万 Credits，兑换所得 Credits 30 天内有效）
 - 当前免费模型（限时促销）：
 
   - `hy3`（Chat + API 全免）
   - `mimo-v2.5`（API 已免费，Chat 自 2026-08-25 起免费）
-  - `glm-5.3-flash`（API 已免费，Chat 上线后免费）
   - `qwen3.8-flash`（API 已免费，Chat 上线后免费）
 
-> 注：`deepseek-v4-flash` 与 `deepseek-v4-flash-vision-exp` 已结束免费，自 2026-09-03 起改为标准价 5 折。
+> 注：`glm-5.3-flash` 自 2026-09-12 起改为 1 折收费，不再免费；`deepseek-v4-flash` 与 `deepseek-v4-flash-vision-exp` 已结束免费，自 2026-09-03 起改为折扣收费（2026-09 报道为 1 折）。
 
 计费：按 Credits 预付费，支持银行卡、微信支付、支付宝、银联及链上充值。
 
@@ -51,38 +53,33 @@
 
 - 链接：[freebuff.com](https://freebuff.com/?ref=ref-3eb0adde-9983-48f6-9bf3-de3c271c62de)
 
-由文本广告赞助、**100% 免费**（$0/年）的 AI 编程代理平台，无需 API Key、无需信用卡。提供 Desktop、CLI、Web、Cloud、Chat 五种产品，可替代 Codex、Cursor、Claude Code、Devin 等付费工具，开源：[CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff)。
+由文本广告赞助、**100% 免费**（$0/年）的 AI 编程代理平台，无需 API Key、无需信用卡。提供 Desktop、CLI、Web、Cloud、Chat 五种产品，可替代 Codex、Cursor、Claude Code、Devin 等付费工具，开源：[CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff)。
 
-免费模型（完整模式，官方 picker）：
+免费模型（完整模式，官方 picker，2026-10-15 核实）：
 
-- `deepseek-v4-pro`（CLI 默认，每日 premium 会话）
-- `deepseek-v4-flash`（每日 6 小时免费，用完 premium 会话后回退到此）
-- `gpt-5.6-luna`（CLI / Desktop / Web / Cloud / Chat 通用）
-- `minimax-m3`
-- `mimo-v2.5`（无限制）
-- `glm-5.2`（通过 Earn 互动兑换会话）
-- `gemini-3.1-flash-lite`（文件检索、研究等专用任务）
+- `mimo-2.6-flash` / `mimo-2.6-pro`
+- `gpt-6-luna`（full access 免费）
+- `glm-5.3-flash`
+- `deepseek-v4.1-flash`
+- `solar-mini-4` / `solar-pro-4`
 
-受限模式（部分国家或使用 VPN 时）：仅 `mimo-v2.5`，每天 3 个 1 小时会话，可在 Earn 页面通过互动最多获得 7 个会话。
+> 注：`deepseek-v4-pro` 已退役（官方：由 GLM 5.3 Flash 接替）；`minimax-m3`、`mimo-v2.5`、`glm-5.2` 已不在免费名单；`gemini-3.1-flash-lite` 仅用于文件检索等后台专项任务。另有付费限定模型（Gemini 3.8 Flash、Muse Spark 1.3），以及仅美国地区免费的模型（Gemini 4 Argon、GPT-6.1 Sol，每天 1 session）。
+
+受限模式（部分国家或使用 VPN 时）：仅 `mimo-v2.5`，每天 3 个 1 小时会话，可在 Earn 页面通过互动最多获得 7 个会话。（2026-10-15 未核实，以客户端内实际显示为准）
 
 ![](assets/README.png)
-
 
 ## WorkBuddy AI
 
 - 链接：[WorkBuddy AI](https://workbuddy.ai/invite?code=5RQ4528P)
 
-腾讯出品的全场景 AI 办公工作台。支持通过自然语言下达任务，自动规划并执行多步骤任务，处理文档、表格、PPT、数据分析和深度研究等工作，也可以在授权后操作本地文件并进行批量处理。
+腾讯出品的全场景 AI 办公工作台（Agent 产品，非免费 API 平台）。支持通过自然语言下达任务，自动规划并执行多步骤任务，处理文档、表格、PPT、数据分析和深度研究等工作，也可以在授权后操作本地文件并进行批量处理。
 
-支持切换的大模型系列：
+免费体验：国际站 Free 计划每月 100 credits、注册送 250 credits（14 天有效）、7 天 Pro 试用、每日活跃奖励 30 credits/天；国内版免费体验版保留（注册送 2000 积分、每天可领）。2026-10-12 起阶跃 Step 5 Preview 接入并限时免费至 10 月 25 日。
 
-- 腾讯混元（中文办公、内容创作和多模态任务）
-- GPT 系列（`gpt-5.6` / `gpt-5.6-sol` / `gpt-5.5`）
-- GLM
-- Kimi
-- MiniMax
+内置模型（2026-09 起第三方记录）：腾讯混元（HY 系列）、Kimi K3、DeepSeek V4.1 Flash。
 
-> 注：具体可用模型及型号可能随版本、地区或服务配置调整，请以 WorkBuddy AI 客户端内的模型列表为准。
+> 注：无免费开发者 API；GPT 类模型需用户在高级设置中手动接入第三方中转站，并非产品自带。具体可用模型及额度请以客户端内实际显示为准。
 
 ## Freemodel
 
@@ -90,26 +87,27 @@
 
 提供前沿 AI 模型免费使用的平台，口号是 "Frontier AI, free for everyone"（前沿 AI，人人免费）。
 
-- 永久免费，无需信用卡：注册即送 **$5 API 积分**，验证账号（手机/Telegram）再得 **$10 积分**，无隐藏费用，自动抵扣 API 用量
-- 新用户验证后送 **1 个月 Pro 会员**，解锁前沿模型高速率通道
-- 推荐奖励：每推荐一位好友完成验证，你和好友各得 **$10 积分**，无上限、不过期
+- 永久免费，无需信用卡：官网称注册即送 API 额度、完成账号验证（手机/Telegram）后再送，具体金额以登录后页面为准（2026-10-15 核查时官网未公示；第三方清单 2026-10-14 标注 $10 Free Credit，未验官方）
+- 新用户验证后送 1 个月 Pro 会员（2026-10-15 未能在公开信息中找到，需登录确认），解锁前沿模型高速率通道
+- 推荐奖励：每推荐一位好友完成验证，你和好友各得 **$10 积分**（2026-10-15 未能在公开信息中找到，需登录确认）
 - 免费版无时间窗口额度，用量直接消耗积分余额，用完即止
 
+可用模型（2026-10-15 实测官方免鉴权端点 `/v1/models`，OpenAI 与 Anthropic 兼容路由）：
 
-可用模型（OpenAI 与 Anthropic 兼容路由，10 个）：
+- `gpt-6-luna` / `gpt-6-sol` / `gpt-6-astra`
 
-- `gpt-5.5` / `gpt-5.4` / `gpt-5.4-mini` / `gpt-5.3-codex`
-- `claude-opus-4-8` / `claude-opus-4-7` / `claude-opus-4-6`
-- `claude-sonnet-4-6` / `claude-haiku-4-5` / `claude-fable-5`
-
-
+> 注：原 gpt-5.x 系列与 Claude 全系已于 2026-09 中下旬之后下线，不在当前名单中。
 
 ## TokenLB
 
 - 链接：[tokenlb.net](https://tokenlb.net/sign-up?aff=iqik)
 
+- 免费开始使用，无需绑定信用卡；第三方视频（2026-09-25）声称注册送 **$50** 额度（未验官方页面）
+- 新用户注册赠送初始额度
+
 支持的大模型：
 
+- `claude-opus-4-8`（2026-09-25 第三方视频新增）
 - `claude-opus-4-7`
 - `claude-opus-4-6`
 - `claude-sonnet-4-6`
@@ -118,7 +116,11 @@
 - `gpt-5.4-mini`
 - `gemini-3-flash-preview`
 
+> 注：2026-10-15 抓取端直连官网首页返回 HTTP 500（可能是抓取链路问题），无第三方报告其宕机，政策以官网实际页面为准。
+
 ## GoRouter
+
+> ⚠️ 截至 2026-10-15，官网抓取失败（HTTP 502）；2026-09 起第三方技术报告显示其上游不可达、模型列表为空，疑似停服或渠道枯竭。**暂不建议使用**，以下为历史记录供对照。
 
 - 链接：[gorouter.app](https://gorouter.app/sign-up?aff=k5Fm)
 
