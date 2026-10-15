@@ -135,3 +135,43 @@ Currently available models in the default group:
 
 - `claude-opus-5` / `claude-opus-5-thinking`
 - `claude-opus-4-8` / `claude-opus-4-8-thinking`
+
+## NVIDIA Build
+
+- link: [build.nvidia.com](https://build.nvidia.com)
+
+NVIDIA's official free API trial. Free API access to models including Kimi K3, DeepSeek and GLM.
+
+- No daily request cap; rate limited to ~40 RPM
+- No credit card; phone SMS verification required before getting a key
+- ⚠️ +86 numbers had failures in 2026-03 (two NVIDIA developer forum cases: SMS never arrived / quota-exceeded on first attempt, manual verification via forum post required; unknown whether fixed as of 2026-10-13)
+
+## TokenHarbor
+
+- link: [tokenharbor.ai](https://tokenharbor.ai)
+
+An AI API aggregation gateway. One key, one OpenAI-compatible endpoint; three lines are free — Haiku 5.5, DeepSeek V4.1 Flash and MiMo V2.6 Flash. Calls with the `:free` model ID suffix draw from the free quota and are never billed.
+
+- `claude-haiku-5.5:free` (1M context)
+- `deepseek-v4.1-flash:free` (1.048M context)
+- `mimo-v2.6-flash:free` (1.048M context)
+
+> Source: official blog 2026-10-09; the official caveat: free quotas and availability may change at any time — go by the live models page.
+
+## ai.centos.hk (unverified)
+
+- link: [ai.centos.hk](https://ai.centos.hk)
+
+"君の星辰", a New API relay station. Whether check-in earns free quota is unverified (page could not be opened for verification on 2026-10-14; domain confirmed real via search).
+
+## pmcat.top (unverified)
+
+- link: [pmcat.top](https://pmcat.top/)
+
+Added 2026-10-14; page scraping yielded no extractable content and public search found nothing. Site nature unverified — to be supplemented.
+
+## muyuan.do (unverified)
+
+- link: [muyuan.do](https://muyuan.do/)
+
+A New API relay station / unified LLM API gateway. Claims 30+ model providers with multimodal/audio/rerank endpoints; free quota and check-in policy unverified.
